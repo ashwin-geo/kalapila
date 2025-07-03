@@ -1,0 +1,1094 @@
+{
+  "nodes": [
+    {
+      "id": "node_0",
+      "x": 0.0,
+      "y": 0,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "generate_canvas_for_python_file_coloured",
+      "color": "#733957"
+    },
+    {
+      "id": "node_1",
+      "x": -1350.0,
+      "y": 200,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "find_block_end",
+      "color": "#763851"
+    },
+    {
+      "id": "node_2",
+      "x": -1050.0,
+      "y": 200,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "DiGraph",
+      "color": "#79384c"
+    },
+    {
+      "id": "node_3",
+      "x": -750.0,
+      "y": 200,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "single_source_shortest_path_length",
+      "color": "#7c3847"
+    },
+    {
+      "id": "node_4",
+      "x": -450.0,
+      "y": 200,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "replace",
+      "color": "#7f3a41"
+    },
+    {
+      "id": "node_5",
+      "x": -150.0,
+      "y": 200,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "colormap",
+      "color": "#823c3d"
+    },
+    {
+      "id": "node_6",
+      "x": 150.0,
+      "y": 200,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "search",
+      "color": "#853e39"
+    },
+    {
+      "id": "node_7",
+      "x": 450.0,
+      "y": 200,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "sorted",
+      "color": "#884136"
+    },
+    {
+      "id": "node_8",
+      "x": 750.0,
+      "y": 200,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "canvas_width",
+      "color": "#8c4632"
+    },
+    {
+      "id": "node_9",
+      "x": 1050.0,
+      "y": 200,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "canvas_file",
+      "color": "#904a30"
+    },
+    {
+      "id": "node_10",
+      "x": 1350.0,
+      "y": 200,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "range",
+      "color": "#94502e"
+    },
+    {
+      "id": "node_11",
+      "x": -1350.0,
+      "y": 400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "read",
+      "color": "#97552c"
+    },
+    {
+      "id": "node_12",
+      "x": -1050.0,
+      "y": 400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "canvas_height",
+      "color": "#9c5d2b"
+    },
+    {
+      "id": "node_13",
+      "x": -750.0,
+      "y": 400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "end",
+      "color": "#a0642c"
+    },
+    {
+      "id": "node_14",
+      "x": -450.0,
+      "y": 400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "Path",
+      "color": "#a56b2d"
+    },
+    {
+      "id": "node_15",
+      "x": -150.0,
+      "y": 400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "set",
+      "color": "#aa752f"
+    },
+    {
+      "id": "node_16",
+      "x": 150.0,
+      "y": 400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "max_func_call",
+      "color": "#af7d32"
+    },
+    {
+      "id": "node_17",
+      "x": 450.0,
+      "y": 400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "keys",
+      "color": "#b48636"
+    },
+    {
+      "id": "node_18",
+      "x": 750.0,
+      "y": 400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "print",
+      "color": "#b88e3b"
+    },
+    {
+      "id": "node_19",
+      "x": 1050.0,
+      "y": 400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "add_edge",
+      "color": "#be9a44"
+    },
+    {
+      "id": "node_20",
+      "x": 1350.0,
+      "y": 400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "append",
+      "color": "#c3a34b"
+    },
+    {
+      "id": "node_21",
+      "x": -1350.0,
+      "y": 600,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "to_hex",
+      "color": "#c8ac54"
+    },
+    {
+      "id": "node_22",
+      "x": -1050.0,
+      "y": 600,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "python_file",
+      "color": "#ccb55e"
+    },
+    {
+      "id": "node_23",
+      "x": -750.0,
+      "y": 600,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "dir",
+      "color": "#d0c06b"
+    },
+    {
+      "id": "node_24",
+      "x": -450.0,
+      "y": 600,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "update",
+      "color": "#d3c876"
+    },
+    {
+      "id": "node_25",
+      "x": -150.0,
+      "y": 600,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "zip",
+      "color": "#d5ce81"
+    },
+    {
+      "id": "node_26",
+      "x": 150.0,
+      "y": 600,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "add",
+      "color": "#d6d48b"
+    },
+    {
+      "id": "node_27",
+      "x": 450.0,
+      "y": 600,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "canvas",
+      "color": "#d5da98"
+    },
+    {
+      "id": "node_28",
+      "x": 750.0,
+      "y": 600,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "finditer",
+      "color": "#d3dda1"
+    },
+    {
+      "id": "node_29",
+      "x": 1050.0,
+      "y": 600,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "load",
+      "color": "#d0e0a9"
+    },
+    {
+      "id": "node_30",
+      "x": 1350.0,
+      "y": 600,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "join",
+      "color": "#cbe1b3"
+    },
+    {
+      "id": "node_31",
+      "x": -1350.0,
+      "y": 800,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "exists",
+      "color": "#c5e1b9"
+    },
+    {
+      "id": "node_32",
+      "x": -1050.0,
+      "y": 800,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "open",
+      "color": "#bfe1bf"
+    },
+    {
+      "id": "node_33",
+      "x": -750.0,
+      "y": 800,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "split",
+      "color": "#b8dfc4"
+    },
+    {
+      "id": "node_34",
+      "x": -450.0,
+      "y": 800,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "list",
+      "color": "#addcc8"
+    },
+    {
+      "id": "node_35",
+      "x": -150.0,
+      "y": 800,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "nodes",
+      "color": "#a4d8cb"
+    },
+    {
+      "id": "node_36",
+      "x": 150.0,
+      "y": 800,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "max",
+      "color": "#9bd4cd"
+    },
+    {
+      "id": "node_37",
+      "x": 450.0,
+      "y": 800,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "compile",
+      "color": "#92cfce"
+    },
+    {
+      "id": "node_38",
+      "x": 750.0,
+      "y": 800,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "items",
+      "color": "#86c8cf"
+    },
+    {
+      "id": "node_39",
+      "x": 1050.0,
+      "y": 800,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "min",
+      "color": "#7dc2ce"
+    },
+    {
+      "id": "node_40",
+      "x": 1350.0,
+      "y": 800,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "values",
+      "color": "#74bbcd"
+    },
+    {
+      "id": "node_41",
+      "x": -1350.0,
+      "y": 1000,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "b",
+      "color": "#6cb4cc"
+    },
+    {
+      "id": "node_42",
+      "x": -1050.0,
+      "y": 1000,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "reverse",
+      "color": "#63abc9"
+    },
+    {
+      "id": "node_43",
+      "x": -750.0,
+      "y": 1000,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "dump",
+      "color": "#5da4c7"
+    },
+    {
+      "id": "node_44",
+      "x": -450.0,
+      "y": 1000,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "mkdir",
+      "color": "#589cc4"
+    },
+    {
+      "id": "node_45",
+      "x": -150.0,
+      "y": 1000,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "add_node",
+      "color": "#5393bf"
+    },
+    {
+      "id": "node_46",
+      "x": 150.0,
+      "y": 1000,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "start",
+      "color": "#508bbb"
+    },
+    {
+      "id": "node_47",
+      "x": 450.0,
+      "y": 1000,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "group",
+      "color": "#4f84b7"
+    },
+    {
+      "id": "node_48",
+      "x": 750.0,
+      "y": 1000,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "predecessors",
+      "color": "#4e7cb2"
+    },
+    {
+      "id": "node_49",
+      "x": 1050.0,
+      "y": 1000,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "in_degree",
+      "color": "#4f73ab"
+    },
+    {
+      "id": "node_50",
+      "x": 1350.0,
+      "y": 1000,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "successors",
+      "color": "#516ba4"
+    },
+    {
+      "id": "node_51",
+      "x": -150.0,
+      "y": 1200,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "get",
+      "color": "#54649e"
+    },
+    {
+      "id": "node_52",
+      "x": 150.0,
+      "y": 1200,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "and",
+      "color": "#575d96"
+    },
+    {
+      "id": "node_53",
+      "x": -900.0,
+      "y": 1400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "lstrip",
+      "color": "#5b558d"
+    },
+    {
+      "id": "node_54",
+      "x": -600.0,
+      "y": 1400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "len",
+      "color": "#5e4f85"
+    },
+    {
+      "id": "node_55",
+      "x": -300.0,
+      "y": 1400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "strip",
+      "color": "#62497d"
+    },
+    {
+      "id": "node_56",
+      "x": 0.0,
+      "y": 1400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "index",
+      "color": "#654576"
+    },
+    {
+      "id": "node_57",
+      "x": 300.0,
+      "y": 1400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "enumerate",
+      "color": "#69406c"
+    },
+    {
+      "id": "node_58",
+      "x": 600.0,
+      "y": 1400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "startswith",
+      "color": "#6c3d65"
+    },
+    {
+      "id": "node_59",
+      "x": 900.0,
+      "y": 1400,
+      "width": 250,
+      "height": 100,
+      "type": "text",
+      "text": "splitlines",
+      "color": "#6f3b5f"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_DiGraph",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_2",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_single_source_shortest_path_length",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_3",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_replace",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_4",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_colormap",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_5",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_search",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_6",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_sorted",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_7",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_canvas_width",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_8",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_canvas_file",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_9",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_range",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_10",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_read",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_11",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_canvas_height",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_12",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_end",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_13",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_len",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_54",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_Path",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_14",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_set",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_15",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_max_func_call",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_16",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_keys",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_17",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_print",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_18",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_add_edge",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_19",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_append",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_20",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_to_hex",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_21",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_python_file",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_22",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_dir",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_23",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_update",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_24",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_zip",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_25",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_add",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_26",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_canvas",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_27",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_finditer",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_28",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_load",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_29",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_join",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_30",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_exists",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_31",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_open",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_32",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_split",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_33",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_list",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_34",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_nodes",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_35",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_max",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_36",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_compile",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_37",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_enumerate",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_57",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_items",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_38",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_min",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_39",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_values",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_40",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_b",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_41",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_reverse",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_42",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_dump",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_43",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_mkdir",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_44",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_add_node",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_45",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_start",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_46",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_find_block_end",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_1",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_group",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_47",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_predecessors",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_48",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_in_degree",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_49",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_successors",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_50",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_get",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_51",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_generate_canvas_for_python_file_coloured_to_and",
+      "fromNode": "node_0",
+      "fromSide": "bottom",
+      "toNode": "node_52",
+      "toSide": "top",
+      "color": "#EEEEEE"
+    },
+    {
+      "id": "edge_find_block_end_to_lstrip",
+      "fromNode": "node_1",
+      "fromSide": "bottom",
+      "toNode": "node_53",
+      "toSide": "top",
+      "color": "#763851"
+    },
+    {
+      "id": "edge_find_block_end_to_len",
+      "fromNode": "node_1",
+      "fromSide": "bottom",
+      "toNode": "node_54",
+      "toSide": "top",
+      "color": "#763851"
+    },
+    {
+      "id": "edge_find_block_end_to_strip",
+      "fromNode": "node_1",
+      "fromSide": "bottom",
+      "toNode": "node_55",
+      "toSide": "top",
+      "color": "#763851"
+    },
+    {
+      "id": "edge_find_block_end_to_index",
+      "fromNode": "node_1",
+      "fromSide": "bottom",
+      "toNode": "node_56",
+      "toSide": "top",
+      "color": "#763851"
+    },
+    {
+      "id": "edge_find_block_end_to_enumerate",
+      "fromNode": "node_1",
+      "fromSide": "bottom",
+      "toNode": "node_57",
+      "toSide": "top",
+      "color": "#763851"
+    },
+    {
+      "id": "edge_find_block_end_to_startswith",
+      "fromNode": "node_1",
+      "fromSide": "bottom",
+      "toNode": "node_58",
+      "toSide": "top",
+      "color": "#763851"
+    },
+    {
+      "id": "edge_find_block_end_to_splitlines",
+      "fromNode": "node_1",
+      "fromSide": "bottom",
+      "toNode": "node_59",
+      "toSide": "top",
+      "color": "#763851"
+    }
+  ]
+}
