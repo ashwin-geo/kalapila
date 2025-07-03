@@ -1,0 +1,1 @@
+Open this folder as an Obsidian vault to view the canvases generated.
